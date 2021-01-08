@@ -1,0 +1,27 @@
+
+F	java:S108‹")Either remove or fill this block of code.(å¥‡8İµ®£ç.
+E
+java:S1172@"(Remove this unused method parameter "v".(µ‹À8çŒØŠå.
+[
+java:S1874Š"=Remove this use of "setSystemUiVisibility"; it is deprecated.(™´Ä¯8İµ®£ç.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(õ™§îûÿÿÿÿ8³·ßŞ.
+F
+java:S1604†"(Make this anonymous inner class a lambda(Õ¸Á8İµ®£ç.
+j	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‹À8»¯Ù¶å.
+^	java:S125‚"<This block of commented-out lines of code should be removed.(¥‚Ñşÿÿÿÿ8İµ®£ç.
+[
+java:S1874„"=Remove this use of "setSystemUiVisibility"; it is deprecated.(™´Ä¯8İµ®£ç.
+d
+java:S1874Š"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(™´Ä¯8İµ®£ç.
+T
+java:S1068"2Remove this unused "isServiceBound" private field.(ƒëı×ıÿÿÿÿ8ªçÅ£Ş.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(°Îïµøÿÿÿÿ8½°·å.
+_
+java:S1874‰"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(‰ÒÜÈ8İµ®£ç.
+]	java:S125$"<This block of commented-out lines of code should be removed.(˜â øÿÿÿÿ8ªÎ£ç.
+d
+java:S1874„"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(™´Ä¯8İµ®£ç.
+]	java:S125;"<This block of commented-out lines of code should be removed.(éê¼úıÿÿÿÿ8åÑş¥ç.
+k
+java:S1874†"MRemove this use of "setOnSystemUiVisibilityChangeListener"; it is deprecated.(Õ¸Á8İµ®£ç.
+]	java:S125,"<This block of commented-out lines of code should be removed.(öêÇ¬úÿÿÿÿ8İÖÓŠå.

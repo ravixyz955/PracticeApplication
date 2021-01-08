@@ -1,0 +1,11 @@
+
+j	java:S116"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è°ı„8¹ÚÜ¢Ş.
+c
+java:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒÔ°İŞ.
+_
+java:S1068"=Remove this unused "mIsRandomNumberGenratorOn" private field.(Ìâ›üÿÿÿÿ8©úÂŞŞ.
+o	java:S116"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×åì°úÿÿÿÿ8¹ÚÜ¢Ş.
+Š
+java:S1450"hRemove the "mIsRandomNumberGenratorOn" field and declare it as a local variable in the relevant methods.(Ìâ›üÿÿÿÿ8íÎèŞŞ.
+[
+java:S1144(">Remove this unused private "stopRandomNumberGenerator" method.(Êô’ğ8â½¹ßŞ.

@@ -1,0 +1,23 @@
+
+]	java:S125+"<This block of commented-out lines of code should be removed.(¤–´¡üÿÿÿÿ8äÒÀ„å.
+u
+java:S1450"XRemove the "testPrefs" field and declare it as a local variable in the relevant methods.( ï«¹8„÷Š®à.
+R
+java:S11449"5Remove this unused private "buildAlertDialog" method.(„¾Ó8äÒÀ„å.
+I
+java:S1602?",Remove useless curly braces around statement(ş§¢Õ8äÒÀ„å.
+M
+java:S1481<"1Remove this unused "checkedItems" local variable.(¦é«78äÒÀ„å.
+{
+java:S1450"^Remove the "studentsAdapter" field and declare it as a local variable in the relevant methods.(ìµÚ™8äÒÀ„å.
+]
+java:S11442";Remove this unused private "buildSharedPreferences" method.(¨ß¿·şÿÿÿÿ8äÒÀ„å.
+N
+java:S1602E",Remove useless curly braces around statement(É®×æşÿÿÿÿ8äÒÀ„å.
+]	java:S125!"<This block of commented-out lines of code should be removed.(µÕŸâùÿÿÿÿ8äÒÀ„å.
+I
+java:S1602B",Remove useless curly braces around statement(…“×Ğ8äÒÀ„å.
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(Œ±›—øÿÿÿÿ8Çúš£ë.
+h
+java:S1192;"FDefine a constant instead of duplicating this literal "three" 3 times.(Ü³¸Áùÿÿÿÿ8äÒÀ„å.
+X	java:S125"<This block of commented-out lines of code should be removed.(ıËÎû8É•“Õê.

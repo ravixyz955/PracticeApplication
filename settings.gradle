@@ -1,0 +1,5 @@
+include ':library:testlibrary'
+include ':test2application'
+include ':test1'
+include ':app'
+rootProject.name = "PracticeApplication"

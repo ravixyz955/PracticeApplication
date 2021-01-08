@@ -1,0 +1,15 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(é‹ûÓ
+E
+java:S1604%"(Make this anonymous inner class a lambda(©¼«ı8¢Û•Ãã.
+C
+java:S1185D"(Remove this method to simply inherit it.(™Î«şÿÿÿÿ
+n
+java:S1450"XRemove the "tabLayout" field and declare it as a local variable in the relevant methods.(¤×ä
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ÀñĞëüÿÿÿÿ
+C
+java:S1185?"(Remove this method to simply inherit it.(ÿİç›üÿÿÿÿ
+m
+java:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(• ÷k
+C
+java:S1185:"(Remove this method to simply inherit it.(ø´´øÿÿÿÿ
